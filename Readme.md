@@ -3,7 +3,7 @@ created: 2025-10-26T21:12
 updated: 2025-10-26T21:26
 ---
 # Readme
-This [keyboard] is inspired by Forager, Apiaster and Bad-Temper. It is a 50 split ergonomic keyboard with a 2 thumb cluster, and a number row without the pinky keys. It uses the stagger and splay of bad-temper. 
+This [keyboard] is inspired by Forager, Apiaster and Bad-Temper. It is a 50 key split ergonomic keyboard with a 2 thumb cluster, and a number row without the pinky keys. It uses the stagger and splay of bad-temper. 
 
 Huntsman is named after the Australian spider, which inspired and the Matt Riley Character’s call-sign.
 
